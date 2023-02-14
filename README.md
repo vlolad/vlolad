@@ -13,11 +13,11 @@
   <a href="https://t.me/vlolad">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
-  <a href="https://vk.com/vl_ol">
-    <img src="https://img.shields.io/badge/VK-lightblue?logo=vk&logoColor=white&style=for-the-badge" alt="VK Badge"/>
-  </a>
   <a href="https://www.linkedin.com/in/vladislav-s-7383b0250/">
     <img src="https://img.shields.io/badge/LinkedIn-darkblue?logo=linkedin&logoColor=white&style=for-the-badge" alt="TLinkedIn Badge"/>
+  </a>
+  <a href="https://vk.com/vl_ol">
+    <img src="https://img.shields.io/badge/VK-blue?logo=vk&logoColor=white&style=for-the-badge" alt="VK Badge"/>
   </a>
 </div>
 
