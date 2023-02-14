@@ -22,7 +22,7 @@
 </div>
 
 <div id="stats" align="center">
-<img src="https://komarev.com/ghpvc/?username=vlolad&style=for-the-badge&color=blue" alt="viewStats"/>
+<img src="https://komarev.com/ghpvc/?username=vlolad&style=for-the-badge&color=brightgreen" alt="viewStats"/>
 </div>
 
 # About me 😼 :
