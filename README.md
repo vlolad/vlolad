@@ -1,7 +1,10 @@
-# Hello / Zdravstvuite 👋
+<h1 align="center">
+  Hello / Zdravstvuite 👋
+</h1>
+
 
 <div id="header" align="center">
-  <img alt="GIF" src="https://github.com/vlolad/vlolad/blob/main/assets/painting.jpg?raw=true" width="250" style="border-radius: 100px"/>
+  <img alt="GIF" src="https://github.com/vlolad/vlolad/blob/main/assets/rounded%20image.png?raw=true" width="250"/>
 </div>
 
 </br>
@@ -16,6 +19,10 @@
   <a href="https://www.linkedin.com/in/vladislav-s-7383b0250/">
     <img src="https://img.shields.io/badge/LinkedIn-darkblue?logo=linkedin&logoColor=white&style=for-the-badge" alt="TLinkedIn Badge"/>
   </a>
+</div>
+
+<div id="stats" align="center">
+<img src="https://komarev.com/ghpvc/?username=vlolad&style=flat-square&color=blue" alt="viewStats"/>
 </div>
 
 # About me 😼 :
