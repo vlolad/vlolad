@@ -58,8 +58,18 @@
 <br>
 
 ### :fire: My Stats :
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vlolad&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vlolad&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vlolad&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vlolad&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vlolad&theme=github_dark&utcOffset=4)
+
+<!--
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vlolad&theme=vue-dark&mode=daily)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlolad&layout=compact&theme=vision-friendly-dark&hide=stars,html,javascript,css&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+-->
+<br>
 
 <div id="ending" align="center">
   <img alt="GIF" src="https://github.com/vlolad/vlolad/blob/main/assets/literally.gif?raw=true" width="500"/>
