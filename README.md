@@ -27,16 +27,16 @@
 
 # About me 😼 :
 
-### - I'm 23 years old developer and IT/IP consult.
+## - I'm 23 years old developer and IT/IP consult.
 
 <img width="300" alt="GIF" align="right" src="https://github.com/vlolad/vlolad/blob/main/assets/kittyhack.gif?raw=true">
 
-### - Learning :
+## - Learning :
 - ✍ Data Structures & Algorithms
 - ☕ Java and Spring
 - 🌚 A little of other tech
 
-### - Hobbies : 
+## - Hobbies : 
 - ✨ Gaming
 - ✨ Bike
 - ✨ Arts
@@ -57,13 +57,15 @@
 
 <br>
 
-### :fire: My Stats :
+# :fire: My Stats :
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vlolad&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vlolad&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vlolad&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vlolad&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vlolad&theme=github_dark&utcOffset=4)
+<div id="stats" align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vlolad&theme=github_dark">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vlolad&theme=github_dark">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vlolad&theme=github_dark">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vlolad&theme=github_dark">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vlolad&theme=github_dark&utcOffset=4">
+</div>
 
 <!--
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vlolad&theme=vue-dark&mode=daily)](https://git.io/streak-stats)
