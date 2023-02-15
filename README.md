@@ -25,6 +25,8 @@
 <img src="https://komarev.com/ghpvc/?username=vlolad&style=for-the-badge&color=brightgreen" alt="viewStats"/>
 </div>
 
+## I'm 23 years old developer and IT/IP consult.
+
 # 🎨 My Projects:
 
 ### 1. Organizer - Contributor
@@ -52,9 +54,8 @@ Service for P2P-sharing goods, also with RESTful API
   </a>
 <br>
 
+<!--
 # About me 😼 :
-
-## - I'm 23 years old developer and IT/IP consult.
 
 <img width="300" alt="GIF" align="right" src="https://github.com/vlolad/vlolad/blob/main/assets/kittyhack.gif?raw=true">
 
@@ -67,7 +68,7 @@ Service for P2P-sharing goods, also with RESTful API
 - ✨ Gaming
 - ✨ Bike
 - ✨ Arts
-
+-->
 # :hammer_and_wrench: Languages and Tools ⚙ : 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
