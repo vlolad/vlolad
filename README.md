@@ -25,6 +25,33 @@
 <img src="https://komarev.com/ghpvc/?username=vlolad&style=for-the-badge&color=brightgreen" alt="viewStats"/>
 </div>
 
+# 🎨 My Projects:
+
+### 1. Organizer - Contributor
+Server-side task manager <br>
+<img src="https://img.shields.io/badge/pull%20requests-8-yellow"/> 
+<br>
+<a href="https://github.com/PavelProjects/organizer">
+    <img src="https://img.shields.io/badge/github-link-informational?logo=github&style=flat-square"/>
+  </a>
+<br>
+
+### 2. Explore with me - Author
+Events sharing app with RESTful API
+<br>
+<a href="https://github.com/vlolad/java-explore-with-me">
+    <img src="https://img.shields.io/badge/github-link-informational?logo=github&style=flat-square"/>
+  </a>
+<br>
+
+### 3. ShareIt - Author
+Service for P2P-sharing goods, also with RESTful API
+<br>
+<a href="https://github.com/vlolad/java-shareit">
+    <img src="https://img.shields.io/badge/github-link-informational?logo=github&style=flat-square"/>
+  </a>
+<br>
+
 # About me 😼 :
 
 ## - I'm 23 years old developer and IT/IP consult.
