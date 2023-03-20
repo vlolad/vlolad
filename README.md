@@ -29,7 +29,18 @@
 
 # 🎨 My Projects:
 
-### 1. Organizer - Contributor
+### 1. Gym manager
+Server-side application for personal trainers (storage info about clients, workouts and progress) <br>
+**Stack:** Java 11, Spring (MVC, Security, Data), JWT, PostgreSQL, Docker <br>
+MWP - in active development. Team project with [PavelProjects](https://github.com/PavelProjects) <br>
+<img src="https://img.shields.io/badge/pull%20requests-9-yellow"/> 
+<br>
+<a href="https://github.com/vlolad/Gymanager-server">
+    <img src="https://img.shields.io/badge/github-link-informational?logo=github&style=flat-square"/>
+  </a>
+<br>
+
+### 2. Organizer (Contributor)
 Server-side task manager <br>
 **Stack:** Java 11, Spring (MVC, Security, Data), JWT, PostgreSQL, Docker <br>
 <img src="https://img.shields.io/badge/pull%20requests-8-yellow"/> 
@@ -39,7 +50,7 @@ Server-side task manager <br>
   </a>
 <br>
 
-### 2. Explore with me - Author
+### 3. Explore with me
 Events sharing app with RESTful API <br>
 **Stack:** Java 11, Spring (MVC, Data + Specifications), PostgreSQL, Docker <br>
 <a href="https://github.com/vlolad/java-explore-with-me">
@@ -47,7 +58,7 @@ Events sharing app with RESTful API <br>
   </a>
 <br>
 
-### 3. ShareIt - Author
+### 4. ShareIt
 Service for P2P-sharing goods, also with RESTful API <br>
 **Stack:** Java 11, Spring (MVC, Data), PostgreSQL, Docker <br>
 <a href="https://github.com/vlolad/java-shareit">
@@ -82,6 +93,9 @@ Service for P2P-sharing goods, also with RESTful API <br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="Pethon" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg"  title="JS" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg"  title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg"  title="TS" alt="TypeScript" width="40" height="40"/>&nbsp;
 </div>
 
 <br>
